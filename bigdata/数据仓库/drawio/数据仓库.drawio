@@ -1,29 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="jdpVXuZyCM5Cq3LaDzaF">
-    <mxGraphModel dx="746" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6yHjge_lNyQzL8mi_DuI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="600" height="80" as="geometry" />
+          <mxGeometry x="40" y="40" width="1040" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6yHjge_lNyQzL8mi_DuI-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;业务板块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="65" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6yHjge_lNyQzL8mi_DuI-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;业务板块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="65" width="70" height="30" as="geometry" />
+          <mxGeometry x="544" y="65" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6yHjge_lNyQzL8mi_DuI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="600" height="240" as="geometry" />
+          <mxGeometry x="40" y="160" width="1040" height="320" as="geometry" />
         </mxCell>
         <mxCell id="6yHjge_lNyQzL8mi_DuI-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;规范定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="265" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6yHjge_lNyQzL8mi_DuI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="440" width="600" height="120" as="geometry" />
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="515" width="1040" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6yHjge_lNyQzL8mi_DuI-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;模型设计&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="53" y="485" width="72" height="30" as="geometry" />
+          <mxGeometry x="53" y="560" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据域&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="544" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;业务过程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479" y="235" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;度量&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="609" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;原子指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;派生指标&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;（派生指标=原子指标+时间周期+修饰词）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="390" width="305" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;维度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="235" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;维度属性&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="320" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;修饰类型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="235" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;修饰类型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6yHjge_lNyQzL8mi_DuI-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;修饰词&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
